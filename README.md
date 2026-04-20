@@ -42,6 +42,14 @@
 
 ---
 
+# 🛠️ Tools & Platforms  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,terraform,postman,vscode,blender" />
+</p>
+
+---
+
 # 🚀 Featured Projects  
 
 ### 🔹 IoT-Based Machine Health Monitoring System  
@@ -89,6 +97,16 @@
 
 ---
 
+# 📊 Advanced Metrics  
+
+- ⚡ Code Efficiency Focus: High  
+- ⚡ API Response Optimization: Practiced  
+- ⚡ Data Processing: Batch + Real-Time  
+- ⚡ System Design Exposure: Intermediate  
+- ⚡ Debugging & Problem Solving: Strong  
+
+---
+
 # 🧠 Core Strengths  
 
 ✔ Scalable Backend Development  
@@ -96,6 +114,15 @@
 ✔ Full Stack Architecture  
 ✔ AI + IoT Integration  
 ✔ Performance Optimization  
+
+---
+
+# 🏆 Highlights  
+
+- 🚀 Built real-time IoT monitoring systems  
+- 🤖 Applied ML for prediction systems  
+- 🌐 Developed full-stack web applications  
+- 📊 Strong analytical and data-driven mindset  
 
 ---
 

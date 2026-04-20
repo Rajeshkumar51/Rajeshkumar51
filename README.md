@@ -7,7 +7,7 @@
 ## 🌐 Connect With Me  
 <p align="left">
 <a href="https://github.com/Rajeshkumar51" target="blank">GitHub</a> |
-<a href="YOUR_LINKEDIN_LINK" target="blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rajesh-kumar-2922941b7/" target="blank">LinkedIn</a>
 </p>
 
 ---
